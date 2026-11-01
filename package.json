@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "基于 Vue 3、Vite 与 ECharts 的小麦磷素营养规则诊断前端演示",
+  "description": "小麦磷素营养诊断可视化演示，关联课题包含 3DGS 三维重建、空间结构特征提取与 SVM 诊断实验",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
